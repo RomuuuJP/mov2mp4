@@ -1,2 +1,6 @@
 # mov2mp4
 将脚本同目录下的所有MOV文件转码成x264编码的MP4文件
+
+需要安装ffmpeg 以及 python3.x
+
+iphone录像的mov放到Photo Station上没法直接预览。就随手写了个脚本方便随时把MOV转成可以预览的MP4格式（通过硬件加速的h264编码也没有办法预览）
